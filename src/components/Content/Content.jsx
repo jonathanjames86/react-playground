@@ -9,7 +9,6 @@ const Content = () => (
         This is my Content
       </h1>
     </header>
-    {/* Will bw where we add our components */}
   </div>
 );
 
